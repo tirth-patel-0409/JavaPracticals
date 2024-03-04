@@ -4,7 +4,7 @@
 
 This repository contains a collection of Java programs that cover various practical concepts. Each program is designed to demonstrate and practice specific Java features and techniques. Below is a brief overview of each program along with instructions on how to run them.
 
-The SpiralProgram generates a spiral matrix of numbers based on user input. Users can define the size of the matrix and choose between a normal or reverse spiral. The program utilizes a matrix traversal algorithm to fill in the numbers in a spiral pattern. Users have the option to continue with a new matrix or exit the program. Table of Contents
+### Table of Contents
 
 1) Converter
 2) Fibonacci
